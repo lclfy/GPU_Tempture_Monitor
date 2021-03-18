@@ -101,7 +101,7 @@ namespace WindowsFormsApplication1
         private void Main_Load(object sender, EventArgs e)
         {
             load();
-            timer1.Interval = 1000;  //定时器时间间隔
+            timer1.Interval = 1500;  //定时器时间间隔
             timer1.Start();   //定时器开始工作
 
             //表格初始化
@@ -351,7 +351,7 @@ namespace WindowsFormsApplication1
             senserMonitorData.processName = processName;
             senserMonitorData.HighTempDegrees = highTemp;
             errorCount = -1;
-            timer1.Interval = 1000;  //定时器时间间隔
+            timer1.Interval = 1500;  //定时器时间间隔
             timer1.Start();
             save();
         }

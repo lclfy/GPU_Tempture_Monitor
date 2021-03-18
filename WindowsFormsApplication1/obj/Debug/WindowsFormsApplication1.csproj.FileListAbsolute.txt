@@ -65,3 +65,16 @@ E:\ZRC\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplica
 E:\ZRC\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 E:\ZRC\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
 E:\ZRC\GPU温度监控器\WindowsFormsApplication1\bin\Debug\OpenHardwareMonitorLib.dll
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\bin\Debug\CSkin.dll
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\bin\Debug\OpenHardwareMonitorLib.dll
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\bin\Debug\CSkin.xml
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\ZRC\GPU_Tempture_Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
