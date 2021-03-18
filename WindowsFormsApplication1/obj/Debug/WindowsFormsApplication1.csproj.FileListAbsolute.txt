@@ -1,0 +1,67 @@
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateVisitor.resources
+E:\My Program\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\My Program\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\My Program\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\My Program\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\My Program\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\My Program\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateVisitor.resources
+E:\My Program\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\My Program\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\My Program\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenHardwareMonitorLib.dll
+E:\My Program\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenHardwareMonitorLib.pdb
+C:\Users\Administrator\Downloads\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Downloads\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Downloads\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateVisitor.resources
+C:\Users\Administrator\Downloads\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Downloads\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Administrator\Downloads\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Downloads\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Downloads\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CSkin.dll
+D:\好例子网_WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CSkin.xml
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\bin\Debug\CSkin.dll
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\bin\Debug\CSkin.xml
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\GitHub\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\bin\Debug\CSkin.dll
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\bin\Debug\CSkin.xml
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\ZRC\GPU温度监控器\WindowsFormsApplication1\bin\Debug\OpenHardwareMonitorLib.dll
