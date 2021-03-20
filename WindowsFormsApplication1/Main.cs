@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using CCWin;
 using System.Windows.Forms;
+using System.Runtime.InteropServices;
 
 namespace WindowsFormsApplication1
 {
@@ -37,6 +38,9 @@ namespace WindowsFormsApplication1
         public SenserMornitorData senserMonitorData;
 
         public int errorCount = -1;
+
+        [DllImport("kernel32.dll", EntryPoint = "SetProcessWorkingSetSize")]
+        public static extern int SetProcessWorkingSetSize(IntPtr process, int minSize, int maxSize);
 
         public Main()
         {
@@ -151,7 +155,7 @@ namespace WindowsFormsApplication1
                 }
 
             }
-            
+            ClearMemory();
         }
 
         private void UpdateSenserData()
@@ -322,6 +326,18 @@ namespace WindowsFormsApplication1
             }
             return;
             }
+
+        //定期清理内存
+        public static void ClearMemory()
+        {
+            GC.Collect();
+            GC.WaitForPendingFinalizers();
+            if (Environment.OSVersion.Platform == PlatformID.Win32NT)
+            {
+                //FrmMian为我窗体的类名
+                Main.SetProcessWorkingSetSize(System.Diagnostics.Process.GetCurrentProcess().Handle, -1, -1);
+            }
+        }
 
         //温度框只能输入数字
         private void highTemp_tb_KeyPress(object sender, KeyPressEventArgs e)
